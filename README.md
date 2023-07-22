@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Burhan AFŞAR
 
-<!--
-**XF17K/XF17K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Computer Engineering at Gazi University.</br>
+I'm interested in iOS development and game development.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=swift" width="50"/>
+  <img src="https://skillicons.dev/icons?i=unity" width="50"/>
+  <img src="https://skillicons.dev/icons?i=blender" width="50"/>
+  <img src="https://www.adobe.com/content/dam/cc/icons/pt_appicon_256.svg" width="50"/>
+  <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=cs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+</p>
